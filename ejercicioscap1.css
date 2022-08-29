@@ -2,10 +2,28 @@ body{
    text-align:justify;
    max-width: 90%;
    padding: 10px 50px;
+   margin-top: 0;
+   font-size: 18px;
 }
 
 .title{
-   background-color: cadetblue;
+   font-size: 20px;
+   margin-top: 0px;
+   background-color: lightblue;
    text-align: center;
-   color: beige;
+   color: white;
+   padding: 5px;
+   border-radius: 7px;
 }
+
+.space{
+   padding: 0 40px;
+}
+
+/* .white{
+   background-color: #eee;
+}
+
+.bluelight{
+   background-color: lightblue;
+} */
