@@ -1,0 +1,11 @@
+body{
+   text-align:justify;
+   max-width: 90%;
+   padding: 10px 50px;
+}
+
+.title{
+   background-color: cadetblue;
+   text-align: center;
+   color: beige;
+}
